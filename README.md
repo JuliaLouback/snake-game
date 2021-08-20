@@ -1,8 +1,14 @@
-# <img src="D:\Portfolio\snake-game\img\snake.png" style="zoom:25%;" /> Snake Game 
+# <img src="img\snake.png" style="zoom:25%;" /> Snake Game 
 
 
 
  Jogo da Cobrinha desenvolvido para o Bootcamp HTML Web Developer da Digital Innovation One
+
+
+
+## 💻 Tela do Projeto
+
+![tela](img\tela.jpg)
 
 
 
