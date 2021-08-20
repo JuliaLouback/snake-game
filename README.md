@@ -1,4 +1,4 @@
-# <img src="img\snake.png" style="zoom:5%;" /> Snake Game 
+# Snake Game 
 
 
 
@@ -8,7 +8,7 @@
 
 ## 💻 Tela do Projeto
 
-![tela](img/tela.jpg)
+![tela](https://github.com/JuliaLouback/snake-game/blob/main/img/tela.JPG)
 
 
 
