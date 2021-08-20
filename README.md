@@ -1,4 +1,4 @@
-# <img src="img\snake.png" style="zoom:25%;" /> Snake Game 
+# <img src="img\snake.png" style="zoom:5%;" /> Snake Game 
 
 
 
@@ -8,7 +8,7 @@
 
 ## 💻 Tela do Projeto
 
-![tela](img\tela.jpg)
+![tela](img/tela.jpg)
 
 
 
